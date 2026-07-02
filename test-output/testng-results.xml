@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-02T11:25:12 IST" name="Default suite" finished-at="2026-07-02T11:26:21 IST" duration-ms="69236">
+    <groups>
+    </groups>
+    <test started-at="2026-07-02T11:25:12 IST" name="Default test" finished-at="2026-07-02T11:26:21 IST" duration-ms="69236">
+      <class name="com.kapil.tests.FirstTest">
+        <test-method signature="launchBrowser()[pri:0, instance:com.kapil.tests.FirstTest@3e27aa33]" started-at="2026-07-02T11:25:12 IST" name="launchBrowser" finished-at="2026-07-02T11:26:21 IST" duration-ms="69172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+      </class> <!-- com.kapil.tests.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
