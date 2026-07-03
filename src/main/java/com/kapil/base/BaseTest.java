@@ -8,21 +8,17 @@ import org.testng.annotations.Test;
 import com.kapil.driver.DriverFactory;
 
 public class BaseTest {
-	
-	protected WebDriver driver;
-	
+
 	@BeforeMethod
 	public void setup() {
-		
-		driver=DriverFactory.initDriver();
+
+		DriverFactory.initDriver();
 	}
-	
+
 	@AfterMethod
 	public void tearDown() {
-		
-		if(driver!=null) {
-		driver.quit();
-		}
+
+		DriverFactory.quitDriver();
 	}
 
 }

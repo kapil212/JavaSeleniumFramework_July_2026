@@ -5,6 +5,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 import com.kapil.base.BaseTest;
+import com.kapil.driver.DriverFactory;
+import com.kapil.utilities.ConfigReader;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -13,8 +15,8 @@ public class FirstTest extends BaseTest {
 	@Test
 	public void launchBrowser() {
 		
-		driver.get("https://www.google.com");
-		System.out.println(driver.getTitle());
-		System.out.println(driver.getCurrentUrl());
+		DriverFactory.getDriver().get(ConfigReader.getProperty("url"));
+		System.out.println(DriverFactory.getDriver().getTitle());
+		System.out.println(DriverFactory.getDriver().getCurrentUrl());
 	}
 }
