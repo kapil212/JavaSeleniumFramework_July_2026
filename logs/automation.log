@@ -1,0 +1,57 @@
+2026-07-04 11:59:58 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-04 11:59:58 INFO  com.kapil.tests.FirstTest - Launchine google
+2026-07-04 12:00:28 INFO  com.kapil.tests.FirstTest - Title : Google
+2026-07-04 12:00:30 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-04 15:10:25 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-04 15:10:25 INFO  com.kapil.tests.FirstTest - Launching google
+2026-07-04 15:11:02 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-04 15:17:17 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-04 15:17:17 INFO  com.kapil.tests.FirstTest - Launching google
+2026-07-04 15:17:56 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-04 15:20:20 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-04 15:20:20 INFO  com.kapil.tests.FirstTest - Launching google
+2026-07-04 15:21:00 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-04 15:21:01 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-04 15:22:26 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-04 15:22:26 INFO  com.kapil.tests.FirstTest - Launching google
+2026-07-04 15:23:09 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-04 15:23:09 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-04 15:26:16 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-04 15:26:16 INFO  com.kapil.tests.FirstTest - Launching google
+2026-07-04 15:26:56 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-04 15:26:57 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-04 15:29:59 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-04 15:29:59 INFO  com.kapil.tests.FirstTest - Launching google
+2026-07-04 15:30:40 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-04 15:30:42 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-04 15:30:44 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-04 15:34:04 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-04 15:34:04 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-04 15:34:51 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-04 15:34:51 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-04 15:34:54 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-05 09:49:04 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-05 09:49:04 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-05 09:49:32 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-05 09:49:34 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-05 09:49:36 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-05 09:50:11 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-05 09:50:11 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-05 09:50:36 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-05 09:50:37 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-05 09:50:58 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-06 13:20:13 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-06 13:20:13 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-06 13:20:39 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-06 13:20:40 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-06 13:20:46 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-06 13:20:47 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-06 13:20:47 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-06 13:21:12 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-06 13:21:13 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-06 13:21:34 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-06 13:21:34 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-06 13:21:34 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-06 13:21:57 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-06 13:21:59 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-06 13:22:20 INFO  com.kapil.driver.DriverFactory - Closing Browser
