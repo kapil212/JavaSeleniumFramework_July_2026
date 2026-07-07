@@ -106,3 +106,76 @@
 2026-07-07 12:03:10 INFO  com.kapil.tests.FirstTest - all details filled
 2026-07-07 12:03:30 INFO  com.kapil.listners.TestListner - TEST FAIL : loginTest
 2026-07-07 12:03:31 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:25:16 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:25:16 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:26:08 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:26:11 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:26:13 INFO  com.kapil.listners.TestListner - TEST SUCCESS : loginTest
+2026-07-07 19:26:13 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:26:14 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:26:14 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:26:43 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:26:44 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:27:04 INFO  com.kapil.listners.TestListner - TEST FAIL : loginTest
+2026-07-07 19:27:05 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:27:06 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:27:06 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:27:36 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:27:50 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:28:10 INFO  com.kapil.listners.TestListner - TEST FAIL : loginTest
+2026-07-07 19:28:11 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:35:00 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:35:00 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:35:30 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:35:32 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:35:34 INFO  com.kapil.listners.TestListner - TEST SUCCESS : loginTest
+2026-07-07 19:35:34 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:35:35 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:35:35 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:36:07 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:36:09 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:36:29 INFO  com.kapil.listners.TestListner - TEST FAIL : loginTest
+2026-07-07 19:36:30 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:36:31 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:36:31 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:38:02 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:38:07 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:38:27 INFO  com.kapil.listners.TestListner - TEST FAIL : loginTest
+2026-07-07 19:38:28 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:44:03 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:44:03 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:44:35 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:44:36 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:44:39 INFO  com.kapil.listners.TestListner - TEST SUCCESS : loginTest
+2026-07-07 19:44:39 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:44:40 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:44:40 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:45:11 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:45:12 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:45:33 INFO  com.kapil.listners.TestListner - TEST FAIL : loginTest
+2026-07-07 19:45:33 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:45:34 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:45:34 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:46:13 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:46:14 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:46:34 INFO  com.kapil.listners.TestListner - TEST FAIL : loginTest
+2026-07-07 19:46:34 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:51:35 INFO  com.kapil.reports.ExtentManager - Extent Report Initialised Successfully
+2026-07-07 19:51:38 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:51:38 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:52:14 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:52:16 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:52:18 INFO  com.kapil.listners.TestListner - TEST SUCCESS : loginTest
+2026-07-07 19:52:18 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:52:19 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:52:19 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:52:50 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:52:51 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:53:11 INFO  com.kapil.listners.TestListner - TEST FAIL : loginTest
+2026-07-07 19:53:12 INFO  com.kapil.driver.DriverFactory - Closing Browser
+2026-07-07 19:53:13 INFO  com.kapil.driver.DriverFactory - Launching Chrome Browser
+2026-07-07 19:53:13 INFO  com.kapil.base.BaseTest - Launching google
+2026-07-07 19:53:45 INFO  com.kapil.tests.FirstTest - orangehrm page
+2026-07-07 19:53:48 INFO  com.kapil.tests.FirstTest - all details filled
+2026-07-07 19:54:08 INFO  com.kapil.listners.TestListner - TEST FAIL : loginTest
+2026-07-07 19:54:08 INFO  com.kapil.driver.DriverFactory - Closing Browser
